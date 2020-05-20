@@ -24,7 +24,7 @@ UpdateTable
 
 Example
 =======
-[UpdateTable.go](https://github.com/GiterLab/goots/blob/master/example/4-UpdateTable.go)
+[UpdateTable.go](https:///goots/blob/master/example/4-UpdateTable.go)
 
 	package main
 	
@@ -32,8 +32,8 @@ Example
 		"fmt"
 		"os"
 	
-		ots2 "github.com/GiterLab/goots"
-		. "github.com/GiterLab/goots/otstype"
+		ots2 "/goots"
+		. "/goots/otstype"
 	)
 	
 	// modify it to yours

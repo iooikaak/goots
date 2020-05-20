@@ -16,8 +16,8 @@ import (
 	"sync"
 	"time"
 
-	. "github.com/GiterLab/goots/otstype"
-	"github.com/GiterLab/goots/urllib"
+	. "/goots/otstype"
+	"/goots/urllib"
 )
 
 var OTSDebugEnable bool = false     // OTS调试默认关闭

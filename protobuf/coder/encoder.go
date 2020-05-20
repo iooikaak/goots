@@ -10,8 +10,8 @@ import (
 	"fmt"
 	"reflect"
 
-	. "github.com/GiterLab/goots/otstype"
-	. "github.com/GiterLab/goots/protobuf"
+	. "/goots/otstype"
+	. "/goots/protobuf"
 )
 
 const (

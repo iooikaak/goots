@@ -10,8 +10,8 @@ import (
 	"os"
 	"time"
 
-	ots2 "github.com/GiterLab/goots"
-	. "github.com/GiterLab/goots/otstype"
+	ots2 "/goots"
+	. "/goots/otstype"
 )
 
 // modify it to yours

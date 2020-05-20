@@ -11,8 +11,8 @@ import (
 	"reflect"
 	"time"
 
-	. "github.com/GiterLab/goots/otstype"
-	. "github.com/GiterLab/goots/protobuf"
+	. "/goots/otstype"
+	. "/goots/protobuf"
 	"github.com/golang/protobuf/proto"
 )
 

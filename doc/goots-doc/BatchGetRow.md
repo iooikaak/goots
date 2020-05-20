@@ -92,7 +92,7 @@ BatchGetRow
 
 Example
 =======
-[BatchGetRow.go](https://github.com/GiterLab/goots/blob/master/example/10-BatchGetRow.go)
+[BatchGetRow.go](https:///goots/blob/master/example/10-BatchGetRow.go)
 
 	package main
 	
@@ -100,8 +100,8 @@ Example
 		"fmt"
 		"os"
 	
-		ots2 "github.com/GiterLab/goots"
-		. "github.com/GiterLab/goots/otstype"
+		ots2 "/goots"
+		. "/goots/otstype"
 	)
 	
 	// modify it to yours

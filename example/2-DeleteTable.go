@@ -9,8 +9,8 @@ import (
 	"fmt"
 	"os"
 
-	ots2 "github.com/GiterLab/goots"
-	"github.com/GiterLab/goots/log"
+	ots2 "/goots"
+	"/goots/log"
 )
 
 // modify it to yours

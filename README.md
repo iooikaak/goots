@@ -15,34 +15,34 @@ Tips: 使用OTS前，请参考下[OTS使用限制项](https://help.aliyun.com/do
 [![wercker status](https://app.wercker.com/status/08d83208aa0215a6d6a0383b9b77b81d/m "wercker status")](https://app.wercker.com/project/bykey/08d83208aa0215a6d6a0383b9b77b81d)
 
 [![Build Status](https://travis-ci.org/GiterLab/goots.svg?branch=master)](https://travis-ci.org/GiterLab/goots)
-[![GoDoc](http://godoc.org/github.com/GiterLab/goots?status.svg)](http://godoc.org/github.com/GiterLab/goots)
+[![GoDoc](http://godoc.org//goots?status.svg)](http://godoc.org//goots)
 
-[![Build Status](https://drone.io/github.com/GiterLab/goots/status.png)](https://drone.io/github.com/GiterLab/goots/latest)
-[![Go Walker](http://gowalker.org/api/v1/badge)](http://gowalker.org/github.com/GiterLab/goots)
-[![](http://gocover.io/_badge/github.com/GiterLab/goots)](http://gocover.io/github.com/GiterLab/goots)
+[![Build Status](https://drone.io//goots/status.png)](https://drone.io//goots/latest)
+[![Go Walker](http://gowalker.org/api/v1/badge)](http://gowalker.org//goots)
+[![](http://gocover.io/_badge//goots)](http://gocover.io//goots)
 
 ## Support API
 - **Table**
-	- [CreateTable](https://github.com/GiterLab/goots/blob/master/doc/goots-doc/CreateTable.md) ☑
-	- [DeleteTable](https://github.com/GiterLab/goots/blob/master/doc/goots-doc/DeleteTable.md) ☑
-	- [ListTable](https://github.com/GiterLab/goots/blob/master/doc/goots-doc/ListTable.md) ☑
-	- [UpdateTable](https://github.com/GiterLab/goots/blob/master/doc/goots-doc/UpdateTable.md) ☑
-	- [DescribeTable](https://github.com/GiterLab/goots/blob/master/doc/goots-doc/DescribeTable.md) ☑
+	- [CreateTable](https:///goots/blob/master/doc/goots-doc/CreateTable.md) ☑
+	- [DeleteTable](https:///goots/blob/master/doc/goots-doc/DeleteTable.md) ☑
+	- [ListTable](https:///goots/blob/master/doc/goots-doc/ListTable.md) ☑
+	- [UpdateTable](https:///goots/blob/master/doc/goots-doc/UpdateTable.md) ☑
+	- [DescribeTable](https:///goots/blob/master/doc/goots-doc/DescribeTable.md) ☑
 - **SingleRow**
-	- [GetRow](https://github.com/GiterLab/goots/blob/master/doc/goots-doc/GetRow.md) ☑
-	- [PutRow](https://github.com/GiterLab/goots/blob/master/doc/goots-doc/PutRow.md) ☑
-	- [UpdateRow](https://github.com/GiterLab/goots/blob/master/doc/goots-doc/UpdateRow.md) ☑
-	- [DeleteRow](https://github.com/GiterLab/goots/blob/master/doc/goots-doc/DeleteRow.md) ☑
+	- [GetRow](https:///goots/blob/master/doc/goots-doc/GetRow.md) ☑
+	- [PutRow](https:///goots/blob/master/doc/goots-doc/PutRow.md) ☑
+	- [UpdateRow](https:///goots/blob/master/doc/goots-doc/UpdateRow.md) ☑
+	- [DeleteRow](https:///goots/blob/master/doc/goots-doc/DeleteRow.md) ☑
 - **BatchRow**
-	- [BatchGetRow](https://github.com/GiterLab/goots/blob/master/doc/goots-doc/BatchGetRow.md) ☑
-	- [BatchWriteRow](https://github.com/GiterLab/goots/blob/master/doc/goots-doc/BatchWriteRow.md) ☑
-	- [GetRange](https://github.com/GiterLab/goots/blob/master/doc/goots-doc/GetRange.md) ☑
-	- [XGetRange](https://github.com/GiterLab/goots/blob/master/doc/goots-doc/XGetRange.md) ☑
+	- [BatchGetRow](https:///goots/blob/master/doc/goots-doc/BatchGetRow.md) ☑
+	- [BatchWriteRow](https:///goots/blob/master/doc/goots-doc/BatchWriteRow.md) ☑
+	- [GetRange](https:///goots/blob/master/doc/goots-doc/GetRange.md) ☑
+	- [XGetRange](https:///goots/blob/master/doc/goots-doc/XGetRange.md) ☑
 
 ## Install
 
 	$ go get -u github.com/golang/protobuf/{proto,protoc-gen-go}
-	$ go get github.com/GiterLab/goots
+	$ go get /goots
 
 ## Usage
 
@@ -52,8 +52,8 @@ Tips: 使用OTS前，请参考下[OTS使用限制项](https://help.aliyun.com/do
 		"fmt"
 		"os"
 
-		ots2 "github.com/GiterLab/goots"
-		. "github.com/GiterLab/goots/otstype" // 为了代码干净
+		ots2 "/goots"
+		. "/goots/otstype" // 为了代码干净
 	)
 
 	// modify it to yours
@@ -167,7 +167,7 @@ Tips: 使用OTS前，请参考下[OTS使用限制项](https://help.aliyun.com/do
 		}
 	}
 
-More examples, please see [example/interfaces.go](https://github.com/GiterLab/goots/blob/master/example/interfaces.go).
+More examples, please see [example/interfaces.go](https:///goots/blob/master/example/interfaces.go).
 
 ## Links 
 - [Open Table Service，OTS(表格存储)](http://www.aliyun.com/product/ots)
@@ -181,4 +181,4 @@ More examples, please see [example/interfaces.go](https://github.com/GiterLab/go
 
 ## License
 
-This project is under the MIT License. See the [LICENSE](https://github.com/GiterLab/goots/blob/master/LICENSE) file for the full license text.
+This project is under the MIT License. See the [LICENSE](https:///goots/blob/master/LICENSE) file for the full license text.

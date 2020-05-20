@@ -27,7 +27,7 @@ DeleteRow
 
 Example
 =======
-[DeleteRow.go](https://github.com/GiterLab/goots/blob/master/example/9-DeleteRow.go)
+[DeleteRow.go](https:///goots/blob/master/example/9-DeleteRow.go)
 
 	package main
 	
@@ -35,8 +35,8 @@ Example
 		"fmt"
 		"os"
 	
-		ots2 "github.com/GiterLab/goots"
-		. "github.com/GiterLab/goots/otstype"
+		ots2 "/goots"
+		. "/goots/otstype"
 	)
 	
 	// modify it to yours

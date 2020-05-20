@@ -6,7 +6,7 @@ urllib is an libs help you to curl remote url.
 ## GET
 you can use Get to crawl data.
 
-	import "github.com/GiterLab/goots/urllib"
+	import "/goots/urllib"
 	
 	str, err := urllib.Get("http://tobyzxj.me/").String()
 	if err != nil {
@@ -94,4 +94,4 @@ urllib support mutil file upload, use `req.PostFile()`
 
 See godoc for further documentation and examples.
 
-* [godoc.org/github.com/GiterLab/goots/urllib](https://godoc.org/github.com/GiterLab/goots/urllib)
+* [godoc.org//goots/urllib](https://godoc.org//goots/urllib)

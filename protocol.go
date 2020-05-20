@@ -20,9 +20,9 @@ import (
 	// "sync"
 	"time"
 
-	. "github.com/GiterLab/goots/otstype"
-	. "github.com/GiterLab/goots/protobuf"
-	"github.com/GiterLab/goots/protobuf/coder"
+	. "/goots/otstype"
+	. "/goots/protobuf"
+	"/goots/protobuf/coder"
 	"github.com/golang/protobuf/proto"
 )
 
